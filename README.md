@@ -40,25 +40,6 @@ Responsive design for all screen sizes
 
 Instant results without page reloads
 
-📁 Folder Structure
-bill-calculator-react/
-│
-├── src/
-│   ├── components/
-│   │   ├── BillInput.jsx         # Handles bill amount input
-│   │   ├── TipSelector.jsx       # Handles tip percentage
-│   │   ├── PeopleInput.jsx       # Handles number of people input
-│   │   ├── ResultDisplay.jsx     # Displays calculated totals
-│   │   └── ResetButton.jsx       # Clears all inputs
-│   │
-│   ├── App.jsx                   # Main app component
-│   ├── index.js                  # Entry point
-│   └── App.css                   # Styling
-│
-├── public/
-│   └── index.html
-│
-└── package.json
 
 ⚙️ How It Works
 
@@ -108,15 +89,6 @@ Implement local storage to remember last inputs
 
 Deploy on GitHub Pages / Vercel with a custom domain
 
-📬 Contact
-
-If you’d like to reach out or collaborate, feel free to connect:
-
-Email: shayanrajpoot520@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/m-shayan-faisal/
-
-GitHub: https://github.com/shayan520898
 
 📝 License
 
